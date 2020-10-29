@@ -6,7 +6,7 @@ fields:
   - name: title
     label: Title
     type: textarea
-    description: The name of your post, keep it short!
+    description: 'The name of your post, keep it short!'
     config:
       required: false
   - name: author
@@ -24,3 +24,4 @@ fields:
       - section
 pages:
   - posts/1.md
+  - posts/3.md
